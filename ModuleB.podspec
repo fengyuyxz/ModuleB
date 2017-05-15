@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'UIKit', 'Foundation'
   s.module_name = 'ModuleB'
-  s.dependency 'JJBusnisAMediatro'
+  s.dependency 'ModuleBMediator'
   
 
 end
